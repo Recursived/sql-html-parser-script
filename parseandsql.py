@@ -123,14 +123,7 @@ try:
 
 	# the previous link is the left elem of the tuple and new one is on the right
 	print(lst_href_to_change)
-	"""for see_more in see_mores:
-		text = ''
-		with open(see_more,'r') as f:
-			text = f.read()
-			for replacer, to_be_replaced in lst_href_to_change:
-				text = text.replace(to_be_replaced, replacer+"&theme=<?php echo($_GET[theme])?>")
-		with open(see_more,'w') as f:
-			f.write(text)"""
+
 
 
 
